@@ -97,3 +97,6 @@ ENV/
 
 # mypy
 .mypy_cache/
+
+next.txt
+findings.txt
